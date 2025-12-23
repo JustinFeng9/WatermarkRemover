@@ -1,0 +1,5 @@
+{
+  "name": "Watermark Remover AI",
+  "description": "A powerful tool to automatically detect and remove watermarks from images using advanced AI inpainting techniques while preserving image quality.",
+  "requestFramePermissions": []
+}
